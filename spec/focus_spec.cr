@@ -1,5 +1,5 @@
 require "spec"
-require "../../../src/focus_spec/focus_spec"
+require "../src/focus_spec"
 
 include FocusSpec
 
