@@ -1,0 +1,9 @@
+name: focus_spec
+version: 0.1.0
+
+authors:
+  - Carlos Quinones <cquinones100@gmail.com>
+
+crystal: 0.27.2
+
+license: MIT
